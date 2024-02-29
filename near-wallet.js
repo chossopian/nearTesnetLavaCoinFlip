@@ -18,7 +18,7 @@ import { setupSender } from '@near-wallet-selector/sender';
 
 const myLava = {
   networkId: "lava",
-  nodeUrl: "https://near-testnet.lava.build/lava-referer-c50af170-31ed-49ec-8715-7ee7b1af5417/",
+  nodeUrl: "https://near-testnet.lava.build/lava-referer-be17badd-3d56-4eb1-a0c9-acfb3dd3f802/",
   helperUrl: "https://helper.custom-helper.com",
   explorerUrl: "https://testnet.nearblocks.io",
   indexerUrl: "https://api.custom-indexer.com",
